@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>267</width>
+    <height>229</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>MiSans</family>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>工具箱</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="main.qrc">
+    <normaloff>:/img/img/工具箱.png</normaloff>:/img/img/工具箱.png</iconset>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>11</x>
+     <y>99</y>
+     <width>99</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>打开应用活动</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>137</x>
+     <y>99</y>
+     <width>114</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>打开输入法选择</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>11</x>
+     <y>37</y>
+     <width>93</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>打开自检</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>137</x>
+     <y>37</y>
+     <width>114</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>打开开发者选项</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>11</x>
+     <y>161</y>
+     <width>93</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>调整DPI</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>160</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>命令行</string>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="main.qrc"/>
+ </resources>
+ <connections/>
+</ui>

@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="img">
+    <file>img/更新.png</file>
+    <file>img/检测.png</file>
+    <file>img/退出程序.png</file>
+    <file>img/连接.png</file>
+    <file>img/设置.png</file>
+    <file>img/文件夹.png</file>
+    <file>img/工具箱.png</file>
+    <file>img/截图.png</file>
+    <file>img/视频.png</file>
+    <file>img/应用管理.png</file>
+    <file>img/手表.png</file>
+  </qresource>
+</RCC>
