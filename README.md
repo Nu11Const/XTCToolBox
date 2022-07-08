@@ -1,2 +1,2 @@
 # XTCToolBox
-A Phone and Watch ToolBox.
+需要Python3环境。
