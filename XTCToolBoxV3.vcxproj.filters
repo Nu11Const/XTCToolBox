@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\XTCToolBoxV3\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\XTCToolBoxV3\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\XTCToolBoxV3\form.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\XTCToolBoxV3\form1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\EWIEGA46WW\qrc_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\EWIEGA46WW\qrc_qss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\form.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\form1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\include_Debug\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\include_Debug\ui_form.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\include_Debug\ui_form1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\include_Release\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\include_Release\ui_form.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\include_Release\ui_form1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\include_MinSizeRel\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\include_MinSizeRel\ui_form.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\include_MinSizeRel\ui_form1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\include_RelWithDebInfo\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\include_RelWithDebInfo\ui_form.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\include_RelWithDebInfo\ui_form1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Develop\XTCToolBoxV3\CMakeFiles\dd3eac9850862cfc04a2b1dc4a3dfefa\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Develop\XTCToolBoxV3\CMakeFiles\2c20d19e2001c54baa62b726c184b8dd\qrc_main.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Develop\XTCToolBoxV3\CMakeFiles\2c20d19e2001c54baa62b726c184b8dd\qrc_qss.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Develop\XTCToolBoxV3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Develop\XTCToolBoxV3\mainwindow.ui" />
+    <None Include="D:\Develop\XTCToolBoxV3\form.ui" />
+    <None Include="D:\Develop\XTCToolBoxV3\form1.ui" />
+    <None Include="D:\Develop\XTCToolBoxV3\main.qrc" />
+    <None Include="D:\Develop\XTCToolBoxV3\qss.qrc" />
+    <None Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\autouic_Debug.stamp" />
+    <None Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\autouic_Release.stamp" />
+    <None Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="D:\Develop\XTCToolBoxV3\XTCToolBoxV3_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\Develop\XTCToolBoxV3\main.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0F1D1A67-F166-382C-A8E6-CAA21EF27238}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3A353648-B0A3-3F14-9D94-2C1467D82EF7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EDED87F3-EE8F-31C9-A231-E249403A09FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

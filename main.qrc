@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/about.png</file>
+        <file>img/update.png</file>
+        <file>img/check.png</file>
+        <file>img/exit.png</file>
+        <file>img/connect.png</file>
+        <file>img/settings.png</file>
+        <file>img/wjj.png</file>
+        <file>img/toolbox.png</file>
+        <file>img/screenshot.png</file>
+        <file>img/video.png</file>
+        <file>img/apps.png</file>
+        <file>img/watch.png</file>
+        <file>img/close.png</file>
+        <file>img/big.png</file>
+        <file>img/small.png</file>
+        <file>img/command.png</file>
+    </qresource>
+</RCC>

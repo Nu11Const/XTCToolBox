@@ -9,7 +9,10 @@
 *.so.*
 *.dll
 *.dylib
-
+/build
+/CMakeFiles
+XTCToolBox.aip
+XTCToolBox.back.aip
 # Qt-es
 object_script.*.Release
 object_script.*.Debug
